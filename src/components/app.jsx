@@ -13,7 +13,7 @@ class App extends Component {
       gifs: [],
       selectedGifId: "WIbFpdZR4Og26fK3pz"
     };
-    
+
     this.search("flower");
   }
 
